@@ -4,22 +4,22 @@
     "url": "https://cyperia.net",
     "icon": "https://icons.duckduckgo.com/ip3/cyperia.net.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "82.26%",
-    "uptimeWeek": "97.47%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.66%",
-    "time": 1496,
-    "timeDay": 610,
-    "timeWeek": 1270,
-    "timeMonth": 1224,
-    "timeYear": 1496,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "35.94%",
+    "uptimeWeek": "90.85%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "99.30%",
+    "time": 1493,
+    "timeDay": 763,
+    "timeWeek": 1248,
+    "timeMonth": 1228,
+    "timeYear": 1493,
     "dailyMinutesDown": {
       "2026-07-08": 6,
       "2026-07-16": 116,
       "2026-08-12": 269,
-      "2026-09-28": 255
+      "2026-09-28": 923
     }
   },
   {
@@ -28,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "77.19%",
-    "uptimeDay": "82.27%",
-    "uptimeWeek": "97.47%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "77.19%",
+    "uptime": "76.92%",
+    "uptimeDay": "35.61%",
+    "uptimeWeek": "90.80%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "76.92%",
     "time": 1332,
     "timeDay": 224,
     "timeWeek": 943,
-    "timeMonth": 1070,
+    "timeMonth": 1073,
     "timeYear": 1332,
     "dailyMinutesDown": {
       "2026-06-18": 1307,
@@ -72,7 +72,7 @@
       "2026-07-08": 5,
       "2026-07-16": 114,
       "2026-08-12": 269,
-      "2026-09-28": 255
+      "2026-09-28": 927
     }
   }
 ]
