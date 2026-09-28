@@ -1,8 +1,8 @@
 [
   {
     "name": "Homepage",
-    "url": "https://coding-area.net",
-    "icon": "https://icons.duckduckgo.com/ip3/coding-area.net.ico",
+    "url": "https://cyperia.net",
+    "icon": "https://icons.duckduckgo.com/ip3/cyperia.net.ico",
     "slug": "homepage",
     "status": "down",
     "uptime": "99.66%",
@@ -24,7 +24,7 @@
   },
   {
     "name": "Minecraft Server",
-    "url": "coding-area.net",
+    "url": "mc.cyperia.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
