@@ -8,7 +8,7 @@ sites:
   - name: Minecraft Server
     url: mc.cyperia.net
     port: 25565
-    check: "minecraft"
+    check: "tcp-ping"
 
 status-website:
   cname: status.cyperia.net
