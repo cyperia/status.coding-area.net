@@ -6,7 +6,7 @@ sites:
   - name: Homepage
     url: https://cyperia.net
   - name: Minecraft Server
-    url: mc.cyperia.net
+    url: ingress.cyperia.net # _minecraft._tcp.cyperia.net SRV target; tcp-ping does not follow SRV
     port: 25565
     check: "tcp-ping"
 
