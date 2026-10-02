@@ -27,12 +27,12 @@
     "url": "mc.cyperia.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
-    "status": "up",
-    "uptime": "77.35%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "77.49%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "90.70%",
     "uptimeMonth": "97.86%",
-    "uptimeYear": "77.35%",
+    "uptimeYear": "77.49%",
     "time": 1290,
     "timeDay": 142,
     "timeWeek": 557,
@@ -72,7 +72,8 @@
       "2026-07-08": 5,
       "2026-07-16": 114,
       "2026-08-12": 269,
-      "2026-09-28": 938
+      "2026-09-28": 938,
+      "2026-10-02": 0
     }
   }
 ]
